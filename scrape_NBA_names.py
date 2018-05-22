@@ -7,8 +7,6 @@ class Player():
 		self.name = ""
 		self.link = ""
 
-
-
 player_list = []
 
 driver = webdriver.PhantomJS(executable_path = r'C:\Users\sarim\Desktop\Scraper\phantomjs.exe')
